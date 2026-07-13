@@ -3,5 +3,29 @@ p{
 
 }
 #one{
-    color:red
+    color:red;
+}
+.two{
+    color:green;
+    text-decoration: overline;
+}
+.nav1{
+    color:rgb(108, 244, 149);
+    background-color: rgb(104, 104, 201);
+    text-align:center;
+    text-decoration:underline;
+}
+#font-weight-demo{
+    color:rgb(108, 244, 149);
+    background-color: rgb(104, 104, 201);
+    text-align:center;
+    text-decoration:overline;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:10px;
+    line-height: 120px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+    text-transform: uppercase;
+
 }
