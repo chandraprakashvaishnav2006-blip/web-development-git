@@ -95,5 +95,23 @@ p{
 }
 
 #k1{
-    font-size:75%
+    position:absolute;
+    font-size:75%;
+    top:1000px;
+}
+
+#k3{
+    font-size:96px;
+    
+
+
+}
+
+#k4{
+    font-size:1em;
+    position:relative;
+    top:20px;
+    left:1000px;
+    bottom:50px;
+    right:100px;
 }
